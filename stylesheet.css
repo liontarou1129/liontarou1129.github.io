@@ -57,3 +57,18 @@ height:10px;
 .contents-text{
   margin:10px;
 }
+
+.footer {
+  background-color: #2f5167;
+  color: #fff;
+  height: 240px;
+  padding: 40px;
+}
+
+.footer-logo {
+  font-size: 32px;
+}
+
+.footer-list li {
+  padding-bottom: 20px;
+}
