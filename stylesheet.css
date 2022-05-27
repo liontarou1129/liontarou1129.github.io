@@ -1,4 +1,4 @@
-body {
+body{
   font-family: "Avenir Next";
   background-image: url(28014.jpg);
   background-repeat: no-repeat;
@@ -58,17 +58,17 @@ height:10px;
   margin:10px;
 }
 
-.footer {
+.footer{
   background-color: #2f5167;
   color: #fff;
   height: 240px;
   padding: 40px;
 }
 
-.footer-logo {
+.footer-logo{
   font-size: 32px;
 }
 
-.footer-list li {
+.footer-list li{
   padding-bottom: 20px;
 }
